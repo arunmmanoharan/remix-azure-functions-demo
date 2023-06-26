@@ -5,3 +5,6 @@ build/
 /build
 /public/build
 .env
+/.idea/
+azure/function/build.map
+azure/function/build
